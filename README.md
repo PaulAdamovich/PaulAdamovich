@@ -19,24 +19,16 @@
   <a href="https://t.me/paul_adamovich">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  </div>
 
   
 ---
-  
-  ### :man_technologist: About Me :
-<!--
+ 
+### About Me :
+I'm a beginner Java Developer from Belarus, Minsk
 
+- :sunny: Now I live in Batumi :georgia:
+- 🤔 I’m currently learning Java and popular frameworks.
+- 😄 I’m looking to collaborate on , if you have interesting project.
+- ⚡ Looking for a job placement or internship.
 
-**PaulAdamovich/PaulAdamovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
