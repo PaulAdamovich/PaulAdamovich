@@ -1,7 +1,9 @@
 
 
 
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=PaulAdamovich&style=for-the-badge&color=lightgrey" alt=""/>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="354"/>
@@ -17,10 +19,11 @@
   <a href="https://t.me/paul_adamovich">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PaulAdamovich&style=for-the-badge&color=lightgrey" alt=""/>
-</div>
+
+  
 ---
+  
+  ### :man_technologist: About Me :
 <!--
 
 
