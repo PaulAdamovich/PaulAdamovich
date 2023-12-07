@@ -27,7 +27,6 @@
 ### About Me :
 I'm a beginner Java Developer from Belarus, Minsk
 
-- :sunny: Now I live in Batumi :georgia:
 - 🤔 I’m currently learning Java and popular frameworks.
 - 😄 I’m looking to collaborate on , if you have interesting project.
 - ⚡ Looking for a job placement or internship.
